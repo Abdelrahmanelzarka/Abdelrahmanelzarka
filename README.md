@@ -82,23 +82,22 @@ Beyond my technical expertise, I am a highly social person who enjoys attending 
     <img src="./Asteropen.jpg" alt="Asteropen" height ="250" width="250">
   </a> 
 
-  <a href="https://github.com/Abdelrahmanelzarka/full_udemy_project" target="_blank">
-    <img src="./Udemy.jpg" alt="Udemy" height ="150" width="250">
-  </a>
-
+ 
+ </a>
+        <a href="https://github.com/Abdelrahmanelzarka/BrainiaConnect" target="_blank">
+    <img src="./BrainniaConnect.jpg" alt="BrainniaConnect" height ="200" width="250">
+  </a> 
    <a href="https://github.com/Abdelrahmanelzarka/Techno_Kids_app" target="_blank">
     <img src="./Technokids.jpg" alt="TechnoKids" height ="250" width="250">
   </a>
 
   <a href="https://github.com/Abdelrahmanelzarka/Voice_controlled_car" target="_blank">
     <img src="./Voic_controlled_car.jpg" alt="Voic_controlled_car" height ="150" width="250">
+  <a href="https://github.com/Abdelrahmanelzarka/full_udemy_project" target="_blank">
+    <img src="./Udemy.jpg" alt="Udemy" height ="150" width="250">
   </a>
-        <a href="https://github.com/Abdelrahmanelzarka/BrainiaConnect" target="_blank">
-    <img src="./BrainniaConnect.jpg" alt="BrainniaConnect" height ="200" width="250">
-  </a> 
-   
   <a href="https://github.com/Abdelrahmanelzarka/Balloon_Popper_Game" target="_blank">
-    <img src="./Ballon_game.jpg" alt="Ballon_game" height ="200" width="250">
+    <img src="./Ballon_game.jpg" alt="Ballon_game" height ="150" width="250">
   </a>
 </div>
 
