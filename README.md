@@ -8,7 +8,7 @@
 </div>
 <br>
 <p align="center">
-A fresh SW engineer with passion for cloud deployment, full-stack development, and problem-solving. Currently working as a cloud engineer <a href="https://www.ejada.com/web/ejada/home">@Ejada</a>. 💻 <br>
+A fresh SW engineer with passion for cloud deployment and full-stack development. Currently working as a cloud engineer <a href="https://www.ejada.com/web/ejada/home">@Ejada</a>. 💻 <br>
 My technical skills include expertise in Python, C++, React, Nodejs, Django, Angular, Flask, GCP (google cloud platform), AWS (Amazon Web Services), and Docker, enabling me to effectively design and implement full-stack & Devops solutions. I am also passionate about sharing my knowledge and teaching others coding and problem-solving skills. ✌️<br>
 Beyond my technical expertise, I am highly social person who enjoys attending events related to my field and actively participating in volunteer work. I believe that collaboration and engagement with the wider community are essential for continuous learning and personal growth.🏢
 </p>
@@ -69,7 +69,7 @@ Beyond my technical expertise, I am highly social person who enjoys attending ev
 <br>
 
 
-<h1 align="left"> Take a look on some Projects </h1>
+<h2 align="left"> Take a look on some Projects </h2>
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
