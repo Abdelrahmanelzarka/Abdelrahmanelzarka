@@ -69,7 +69,7 @@ Beyond my technical expertise, I am highly social person who enjoys attending ev
 <br>
 
 
-<h2 align="left"> Take a look on some Projects </h2>
+<h2 align="left">✨ Take a look on some Projects </h2>
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -100,7 +100,7 @@ Beyond my technical expertise, I am highly social person who enjoys attending ev
 
 ###
 
-<h3>Get in touch ☕</h3>
+<h3>☕Get in touch</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/abdelrahmanelzarka/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
