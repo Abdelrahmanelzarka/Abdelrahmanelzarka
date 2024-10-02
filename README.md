@@ -106,12 +106,21 @@ Beyond my technical expertise, I am a highly social person who enjoys attending 
 
 <h3>☕Get in touch</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/abdelrahmanelzarka/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
+ <a href="https://www.linkedin.com/in/abdelrahmanelzarka/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="mailto:abdelrahmanelzarka18@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </div>
 
 ###
+
+###  Snake game with contributions 🐍
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahmanelzarka/Abdelrahmanelzarka/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrahmanelzarka/Abdelrahmanelzarka/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdelrahmanelzarka/Abdelrahmanelzarka/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
 
 
 
