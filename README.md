@@ -1,6 +1,6 @@
 
 <h2 align="center">Abdelrahman Elzarka 🤖<br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&width=435&lines=Software+Engineer;Full+stack+developer;GCP+certified;Problem+solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&width=435&lines=Software+Engineer;Full+stack+developer;GCP+certified;Problem+solver;Cloud+engineer+@ejada;" alt="Typing SVG" /></a>
 </h2>
 
 
@@ -9,11 +9,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br>
-<p align="center">
-A fresh SW engineer with passion for cloud deployment and full-stack development. Currently working as a cloud engineer <a href="https://www.ejada.com/web/ejada/home">@Ejada</a>.💻 <br>
-My technical skills include expertise in Python, C++, React, Nodejs, Django, Angular, Flask, GCP (google cloud platform), AWS (Amazon Web Services), and Docker, enabling me to effectively design and implement full-stack & Devops solutions. I am also passionate about sharing my knowledge and teaching others coding and problem-solving skills.✌️<br>
-Beyond my technical expertise, I am a highly social person who enjoys attending events related to my field and actively participating in volunteer work. I believe that collaboration and engagement with the wider community are essential for continuous learning and personal growth.🏢
-</p>
+
+- A fresh SW engineer graduated from <a href="https://aast.edu/en/"> AAST</a>. 🏢
+- With passion for cloud deployment, full-stack development and problem solving. 💫
+- 2xACPC Finalist. ✌️ 
+- Currently working as a cloud engineer <a href="https://www.ejada.com/web/ejada/home">@Ejada</a>.💻
+- EX SWE <a href="https://www.valeo.com/en/"> @Valeo</a>.✔️
+- Seeking for design full-stack & Devops solutions, and learn new technologies. 💭
+- A highly social person who enjoys attending events related to my field and actively participating in volunteer work. 😍
+
 
 <br>
 <h2 align="left">🛠 Language and tools</h2>
@@ -63,13 +67,9 @@ Beyond my technical expertise, I am a highly social person who enjoys attending 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   
-
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdelrahmanelzarka&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmanelzarka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="130" alt="languages graph"  />
-</div>
+
 <br>
 <br>
 
@@ -77,17 +77,17 @@ Beyond my technical expertise, I am a highly social person who enjoys attending 
 <h2 align="left">✨ Take a look on some Projects </h2>
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <a href="https://github.com/Abdelrahmanelzarka/Astropen" target="_blank">
+<div align="center" style="display: flex; justify-content: left; flex-wrap: wrap;">
+      <a href="https://github.com/Abdelrahmanelzarka/Astropen" target="_blank" >
     <img src="./Asteropen.jpg" alt="Asteropen" height ="250" width="250">
   </a> 
 
  
  </a>
-        <a href="https://github.com/Abdelrahmanelzarka/BrainiaConnect" target="_blank">
-    <img src="./BrainniaConnect.jpg" alt="BrainniaConnect" height ="200" width="250">
+        <a href="https://github.com/Abdelrahmanelzarka/BrainiaConnect" target="_blank"  >
+    <img src="./BrainniaConnect.jpg" alt="BrainniaConnect" height ="200" width="250" >
   </a> 
-   <a href="https://github.com/Abdelrahmanelzarka/Techno_Kids_app" target="_blank">
+   <a href="https://github.com/Abdelrahmanelzarka/Techno_Kids_app" target="_blank" >
     <img src="./Technokids.jpg" alt="TechnoKids" height ="250" width="250">
   </a>
 
@@ -112,9 +112,14 @@ Beyond my technical expertise, I am a highly social person who enjoys attending 
 
 ###
 
-###  My contributions ✅
+###  Github state ✅
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdelrahmanelzarka&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmanelzarka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="130" alt="languages graph"  />
+</div>
 
 ![gitartwork](./gitartwork.svg)
+
 
 
 
