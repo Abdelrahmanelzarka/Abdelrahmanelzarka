@@ -114,6 +114,7 @@ Beyond my technical expertise, I am a highly social person who enjoys attending 
 
 ###  My contributions ✅
 
+![gitartwork](gitartwork.svg)
 
 
 
