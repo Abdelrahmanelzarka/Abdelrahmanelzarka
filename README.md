@@ -104,7 +104,7 @@
 
 ###
 
-<h3>☕Get in touch</h3>
+<h2>☕Get in touch</h2>
 <div align="left">
  <a href="https://www.linkedin.com/in/abdelrahmanelzarka/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="mailto:abdelrahmanelzarka18@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -112,7 +112,7 @@
 
 ###
 
-###  Github state ✅
+<h2> Github state ✅</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abdelrahmanelzarka&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmanelzarka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="130" alt="languages graph"  />
