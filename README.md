@@ -12,7 +12,9 @@
 
 - A fresh SW engineer graduated from <a href="https://aast.edu/en/"> AAST</a>. 🏢
 - With passion for cloud deployment, full-stack development and problem solving. 💫
-- 2xACPC Finalist. ✌️ 
+- GCP Professional Cloud Architect Certified 🌐
+- 2xACPC Finalist. ✌️
+- GitHub certified 🌚
 - Currently working as a cloud engineer <a href="https://www.ejada.com/web/ejada/home">@Ejada</a>.💻
 - EX SWE <a href="https://www.valeo.com/en/"> @Valeo</a>.✔️
 - Seeking for design full-stack & Devops solutions, and learn new technologies. 💭
